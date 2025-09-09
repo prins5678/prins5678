@@ -1,3 +1,4 @@
+![logo](https://github.com/prins5678/prins5678/blob/main/Black%20and%20White%20Modern%20Clean%20Professional%20Programmer%20LinkedIn%20Background.png)
 <h1 align="center">Hi 👋, I'm Prins Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/mjWYgxi6RS8AAAAC/lain-typing.gif">
